@@ -10,8 +10,8 @@
 - Изучаю: Java, OOP, SQL, HTML & CSS, Git & GitHub;
 - В планах: Kotlin, Android SDK;
 - Хочу освоить новую проффесию и найти работу.
--  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kuchumof@gmail.com)
-
+- Мои контакты: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kuchumof@gmail.com)
+                [![Telegram Badge](https://img.shields.io/badge/-AleksandrK-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sergeye4)
 ---
 
 ### :mailbox: Социальные сети:
@@ -24,7 +24,6 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
   </div>
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kuchumof@gmail.com)
 
 ---
 
