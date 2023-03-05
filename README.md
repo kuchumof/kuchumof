@@ -10,10 +10,11 @@
 - Изучаю: Java, OOP, SQL, HTML & CSS, Git & GitHub;
 - В планах: Kotlin, Android SDK;
 - Хочу освоить новую проффесию и найти работу.
+-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kuchumof@gmail.com)
 
 ---
 
-### :mailbox: Как связаться со мной:
+### :mailbox: Социальные сети:
 
   <div id="badges">
   <a href="https://t.me/Sergeye4" target="_blank">
@@ -21,9 +22,6 @@
     </a>   
     <a href="https://www.linkedin.com/in/kuchumov/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="kuchumof@gmail.com" target="_blank">
-      <img src=" https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="40" height="40" alt="mailto" />
     </a>
   </div>
 
