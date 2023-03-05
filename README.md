@@ -1,6 +1,6 @@
 # Привет, меня зовут Александр!
 
----
+![](https://hit.yhype.me/github/profile?user_id=kuchumof)
 
 ### :man_technologist: Обо мне:
 
