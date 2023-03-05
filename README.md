@@ -1,7 +1,6 @@
 # Привет, меня зовут Александр!
 
-![](https://hit.yhype.me/github/profile?user_id=kuchumof)
-
+![](https://komarev.com/ghpvc/?username=kuchumof)
 ### :man_technologist: Обо мне:
 
 Я начинающий Java разработчик
