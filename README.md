@@ -1,24 +1,31 @@
 # Привет, меня зовут Александр!
 
 ![](https://komarev.com/ghpvc/?username=kuchumof)
+
 ### :man_technologist: Обо мне:
 
-Я начинающий Java разработчик
-
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KuchumovAleksandr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sergeye4)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kuchumof@gmail.com)
+Я начинающий Android разработчик.
+Мой путь в IT начался с конференции Яндекс 2019г., где я послушал доклады об Android разработке. Позднее, осенью, смог пройти отбор на курсы в НИУ ВШЭ - Программирование на языке Java. После курса понял что мне это интересно.
+С 2021 года начался мой путь в Android на курсах Udemy, где я обучаюсь по сей день!
+- Изучаю: Java, SQL, HTML & CSS;
+- В планах: Kotlin, Android SDK;
+- Хочу освоить новую проффесию и найти работу.
 
 ---
 
-### Социальные сети:
+### :mailbox: Как связаться со мной:
 
   <div id="badges">
+  <a href="https://t.me/Sergeye4" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    
+    (https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kuchumof@gmail.com)
+    
     <a href="https://www.linkedin.com/in/kuchumov/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/Sergeye4" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
+    
   </div>
 
 ---
