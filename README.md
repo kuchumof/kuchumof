@@ -7,7 +7,7 @@
 Я начинающий Android разработчик.
 Мой путь в IT начался с конференции Яндекс 2019г., где я послушал доклады об Android разработке. Позднее, осенью, смог пройти отбор на курсы в НИУ ВШЭ - Программирование на языке Java. После курса понял что мне это интересно.
 С 2021 года начался мой путь в Android на курсах Udemy, где я обучаюсь по сей день!
-- Изучаю: Java, SQL, HTML & CSS;
+- Изучаю: Java, OOP, SQL, HTML & CSS, Git & GitHub;
 - В планах: Kotlin, Android SDK;
 - Хочу освоить новую проффесию и найти работу.
 
@@ -18,14 +18,11 @@
   <div id="badges">
   <a href="https://t.me/Sergeye4" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    
-    (https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kuchumof@gmail.com)
-    
+    </a>   
     <a href="https://www.linkedin.com/in/kuchumov/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    
+    [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kuchumof@gmail.com)
   </div>
 
 ---
