@@ -23,7 +23,8 @@
 
 ---
 
-### 💻 Технологии:
+<details>
+<summary>:zap: ### 💻 Технологии:</summary>
 
 <div>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
@@ -32,10 +33,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
 </div>
+</details>
 
 ---
 
-### 💻 Пройденные курсы:
+<details>
+<summary>:zap: ### 💻 Пройденные курсы:</summary>
 
 | Курсы                                                           | Дата        |
 | ----------------------------------------------------------------| :---------: |
@@ -46,7 +49,7 @@
 | udemy.com/Java для начинающих: с нуля до сертификата Oracle     | 2021 - 2022 |
 | udemy.com/Java – получи Чёрный Пояс!                            | 2021 - 2023 |
 | udemy.com/SQL для начинающих: с нуля до сертификата Oracle      | 2022 - 2023 |
-
+</details>
 ---
 
 ### 💻 Codewars:
