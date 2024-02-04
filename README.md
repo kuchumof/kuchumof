@@ -5,12 +5,9 @@
 ### :man_technologist: Обо мне:
 
 Я начинающий Android разработчик.
-Мой путь в IT начался с конференции Яндекс, где я прослушал доклады и смог погрузиться в атмосферу. Позднее, осенью, смог пройти отбор на курсы в НИУ ВШЭ - Программирование на языке Java. После курса понял - это интересно.
-С 2021 года начался мой путь в Android разработку на курсах Udemy, где я обучаюсь и по сей день!
-- Изучаю: Android Studio, Android SDK, Kotlin, Kotlin coruitin, RXJava, Solid принцип, Retrofit, Room;
-- Продолжаю изучать: Java, OOP, SQL, HTML & CSS;
-- В планах: Dagger, android jetpack, Postman;
-- Хочу освоить новую проффесию и влиться в android разработку.
+Мой путь в IT начался с конференции Яндекс, где я прослушал доклады и смог погрузиться в атмосферу. 
+Позднее, осенью, смог пройти отбор на курсы в НИУ ВШЭ - Программирование на языке Java. После курса понял - это интересно.
+С этого момента начался мой путь в Android разработку!
 - Мои контакты: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kuchumof@gmail.com)
                 [![Telegram Badge](https://img.shields.io/badge/-AleksandrK-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sergeye4)
 ---
