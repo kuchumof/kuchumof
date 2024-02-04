@@ -36,6 +36,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  ![Kotlin](https://github.com/kuchumof/kuchumof/assets/60887683/ffbb3fa4-faec-4299-9094-d82bdc15fdb3)
+
 </div>
 
 ---
@@ -54,6 +56,7 @@
 
 | Курсы                                                           |
 | ----------------------------------------------------------------|
+| Пермский университет / Разработка приложений для Android        |
 | НИУ ВШЭ / Программирование на языке Java                        |
 | udemy.com/Git: Полный курс для начинающих и не только           |
 | udemy.com/Основы HTML Базовый курс                              |
