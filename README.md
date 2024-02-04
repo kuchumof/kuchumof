@@ -40,6 +40,7 @@
 - HTML и CSS
 - SQL
 - Git & GitHub
+- Figma
 
 
 ---
