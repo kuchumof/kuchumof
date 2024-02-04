@@ -1,6 +1,6 @@
 # Привет, меня зовут Александр!
 
-![](https://komarev.com/ghpvc/?username=kuchumof)
+
 
 ### :man_technologist: Обо мне:
 
