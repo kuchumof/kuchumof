@@ -31,13 +31,17 @@
 ### 💻 Технологии:
 
 <div>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  ![Kotlin](https://github.com/kuchumof/kuchumof/assets/60887683/ffbb3fa4-faec-4299-9094-d82bdc15fdb3)
-
+ООП
+GIT
+JAVA KOTLIN
+ANDROID SDK
+МНОГОПОТОЧНОСТЬ - KOTLI CORUITIN, RXJava
+АРХИТЕКТУРА ПРИЛОЖЕНИЯ(SOLID ПРИНЦИП)
+РАБОТА С СЕТЬЮ (ПОЛУЧЕНИЕ ДАННЫХ ИЗ ИНТЕРНЕТА) Retrofit
+БД Room
+ИНЬЕКЦИЯ ЗАВИСИМОСТИ DAGGER, HILT, KOIN
+ANDROID Jetpack
+Postman - запросы в сеть HTTP-клиент для тестирования API
 </div>
 
 ---
