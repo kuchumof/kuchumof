@@ -6,8 +6,8 @@
 
 Я начинающий Android разработчик.
 Мой путь в IT начался с конференции Яндекс, где я прослушал доклады и смог погрузиться в атмосферу. 
-Позднее, смог пройти отбор на курсы в НИУ ВШЭ - Программирование на языке Java. После курса понял - это интересно.
-С этого момента начался мой путь в Android разработку!
+Позднее, прошел отбор на курсы в НИУ ВШЭ - Программирование на языке Java. После курса понял - это интересно.
+С этого момента начался мой путь в разработку!
 - Мои контакты: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kuchumof@gmail.com)
                 [![Telegram Badge](https://img.shields.io/badge/-AleksandrK-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sergeye4)
 ---
