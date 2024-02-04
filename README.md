@@ -31,8 +31,8 @@
 ### 💻 Технологии:
 
 <div>
-ООП
-GIT
+- ООП
+- GIT
 JAVA KOTLIN
 ANDROID SDK
 МНОГОПОТОЧНОСТЬ - KOTLI CORUITIN, RXJava
