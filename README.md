@@ -39,7 +39,7 @@
 - Picasso
 - HTML и CSS
 - SQL
-- GIT & GitHub
+- Git & GitHub
 
 
 ---
