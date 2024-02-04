@@ -8,7 +8,7 @@
 Мой путь в IT начался с конференции Яндекс, где я прослушал доклады и смог погрузиться в атмосферу. Позднее, осенью, смог пройти отбор на курсы в НИУ ВШЭ - Программирование на языке Java. После курса понял - это интересно.
 С 2021 года начался мой путь в Android разработку на курсах Udemy, где я обучаюсь и по сей день!
 - Изучаю: Android Studio, Android SDK, Kotlin, Kotlin coruitin, RXJava, Solid принцип, Retrofit, Room;
-- Продолжаю изучать: Java, OOP, SQL, HTML & CSS, Git & GitHub;
+- Продолжаю изучать: Java, OOP, SQL, HTML & CSS;
 - В планах: Dagger, android jetpack, Postman;
 - Хочу освоить новую проффесию и влиться в android разработку.
 - Мои контакты: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kuchumof@gmail.com)
