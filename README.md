@@ -29,17 +29,18 @@
 ---
 
 ### 💻 Технологии:
+- Kotlin
+- Java
 - ООП
-- GIT
-JAVA KOTLIN
-ANDROID SDK
-МНОГОПОТОЧНОСТЬ - KOTLI CORUITIN, RXJava
-АРХИТЕКТУРА ПРИЛОЖЕНИЯ(SOLID ПРИНЦИП)
-РАБОТА С СЕТЬЮ (ПОЛУЧЕНИЕ ДАННЫХ ИЗ ИНТЕРНЕТА) Retrofit
-БД Room
-ИНЬЕКЦИЯ ЗАВИСИМОСТИ DAGGER, HILT, KOIN
-ANDROID Jetpack
-Postman - запросы в сеть HTTP-клиент для тестирования API
+- Android SDK
+- Android Jetpack
+- Android Architecture Components
+- Kotlin coroutines
+- Retrofit
+- Room
+- Postman
+- Picasso
+- GIT & GitHub
 
 
 ---
