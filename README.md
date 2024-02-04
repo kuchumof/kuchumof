@@ -37,6 +37,8 @@
 - Room
 - Postman
 - Picasso
+- HTML и CSS
+- SQL
 - GIT & GitHub
 
 
